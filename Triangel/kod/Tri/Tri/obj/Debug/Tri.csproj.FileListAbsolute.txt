@@ -1,0 +1,6 @@
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\bin\Debug\Tri.exe.config
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\bin\Debug\Tri.exe
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\bin\Debug\Tri.pdb
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\obj\Debug\Tri.exe
+C:\Users\Vanilla\Documents\GitHub\Uppgift-1\Triangel\kod\Tri\Tri\obj\Debug\Tri.pdb
